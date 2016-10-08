@@ -2,6 +2,8 @@ Barracuda Web Filter logstash filters.
 
 These were built for a Web Filter 410 vX, they should work for other models too.
 
+Tested on Barracuda 810 Web Filter
+
 For more details see my blog post about this here: https://sysadminblog.net/2016/05/barracuda-web-filter-logstash/
 
 ## Usage
